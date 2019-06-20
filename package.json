@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  },
+  "name": "async-utils",
+  "version": "0.0.1",
+  "description": "async utility library to handle javascript async operations",
+  "main": "./src/index.ts",
+  "license": "MIT"
+}
